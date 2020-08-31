@@ -41,6 +41,8 @@ class About extends Component {
               <ListItem style={{width: '100%', margin: 'auto', paddingTop: '1em', fontFamily: 'Open Sans', color: 'white'}}>Ontario Scholar; 99.2% University Admissions Average (2019)</ListItem>
               <ListItem style={{width: '100%', margin: 'auto', paddingTop: '1em', fontFamily: 'Open Sans', color: 'white'}}>University of Waterloo President's Scholarship (2019)</ListItem>
               <ListItem style={{width: '100%', margin: 'auto', paddingTop: '1em', fontFamily: 'Open Sans', color: 'white'}}>CPL Academic Scholarship Winner (2019)</ListItem>
+              <ListItem style={{width: '100%', margin: 'auto', paddingTop: '1em', fontFamily: 'Open Sans', color: 'white'}}>NSERC Undergraduate Student Research Award (2020)</ListItem>
+              <ListItem style={{width: '100%', margin: 'auto', paddingTop: '1em', fontFamily: 'Open Sans', color: 'white'}}>University of Waterloo Math Faculty Dean's List (89.7% CAV)</ListItem>
               </List>
             </div>
 
